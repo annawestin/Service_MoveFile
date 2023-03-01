@@ -1,0 +1,10 @@
+C:\Users\AnnaWestin_7rzw3eg\source\repos\MoveFiles\MoveFiles\bin\Debug\MoveFiles.exe.config
+C:\Users\AnnaWestin_7rzw3eg\source\repos\MoveFiles\MoveFiles\bin\Debug\MoveFiles.exe
+C:\Users\AnnaWestin_7rzw3eg\source\repos\MoveFiles\MoveFiles\bin\Debug\MoveFiles.pdb
+C:\Users\AnnaWestin_7rzw3eg\source\repos\MoveFiles\MoveFiles\bin\Debug\log4net.dll
+C:\Users\AnnaWestin_7rzw3eg\source\repos\MoveFiles\MoveFiles\bin\Debug\log4net.xml
+C:\Users\AnnaWestin_7rzw3eg\source\repos\MoveFiles\MoveFiles\obj\Debug\MoveFiles.csproj.SuggestedBindingRedirects.cache
+C:\Users\AnnaWestin_7rzw3eg\source\repos\MoveFiles\MoveFiles\obj\Debug\MoveFiles.csproj.CoreCompileInputs.cache
+C:\Users\AnnaWestin_7rzw3eg\source\repos\MoveFiles\MoveFiles\obj\Debug\MoveFiles.csproj.CopyComplete
+C:\Users\AnnaWestin_7rzw3eg\source\repos\MoveFiles\MoveFiles\obj\Debug\MoveFiles.exe
+C:\Users\AnnaWestin_7rzw3eg\source\repos\MoveFiles\MoveFiles\obj\Debug\MoveFiles.pdb

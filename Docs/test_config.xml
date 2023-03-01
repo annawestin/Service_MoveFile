@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Settings>
+		<add key="InputExcel" value="./Docs/FolderDataSheet.xlsx" />
+		<add key="MonitorPath" value="C:/Dev/" />
+		<add key="InputExcelSheetName" value="FolderSummary" />
+		<add key="InputExcelColumnName" value="Filename" />
+</Settings>
